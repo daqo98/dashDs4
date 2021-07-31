@@ -65,5 +65,10 @@ def graph_map_per_year(year = 2018):
     figmap.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     return figmap
 
+<<<<<<< HEAD
     #Hola
     #ddd
+=======
+
+    #soyfeliz cuando acabe ds4a
+>>>>>>> hola soy danny
