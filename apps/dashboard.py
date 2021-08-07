@@ -66,9 +66,14 @@ def graph_map_per_year(year = 2018):
     return figmap
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     #Hola
     #ddd
 =======
 
     #soyfeliz cuando acabe ds4a
 >>>>>>> hola soy danny
+=======
+
+    #soyfeliz cuando acabe ds4a
+>>>>>>> c1be8657bef0f383443307def7ced1cf11e82f9f
